@@ -105,11 +105,17 @@ namespace NS_Venda.Forms
         {
             UC_Relatorios ur = new UC_Relatorios();
             AddControls(ur);
+           
         }
 
         private void btnSettings_Click(object sender, EventArgs e)
         {
-            UC_Configuracoes uc = new UC_Configuracoes();
+            
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            UC_Usuarios uc = new UC_Usuarios();
             AddControls(uc);
         }
     }

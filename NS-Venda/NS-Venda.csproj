@@ -59,6 +59,12 @@
     <Compile Include="Forms\Form_Dashboard.Designer.cs">
       <DependentUpon>Form_Dashboard.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\Form_Editar_Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form_Editar_Usuario.Designer.cs">
+      <DependentUpon>Form_Editar_Usuario.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Form_Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,11 +82,11 @@
     <Compile Include="UserControls\UC_Clientes.Designer.cs">
       <DependentUpon>UC_Clientes.cs</DependentUpon>
     </Compile>
-    <Compile Include="UserControls\UC_Configuracoes.cs">
+    <Compile Include="UserControls\UC_Usuarios.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UserControls\UC_Configuracoes.Designer.cs">
-      <DependentUpon>UC_Configuracoes.cs</DependentUpon>
+    <Compile Include="UserControls\UC_Usuarios.Designer.cs">
+      <DependentUpon>UC_Usuarios.cs</DependentUpon>
     </Compile>
     <Compile Include="UserControls\UC_Dashboard.cs">
       <SubType>UserControl</SubType>
@@ -118,6 +124,9 @@
     <EmbeddedResource Include="Forms\Form_Dashboard.resx">
       <DependentUpon>Form_Dashboard.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form_Editar_Usuario.resx">
+      <DependentUpon>Form_Editar_Usuario.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Form_Login.resx">
       <DependentUpon>Form_Login.cs</DependentUpon>
     </EmbeddedResource>
@@ -133,8 +142,8 @@
     <EmbeddedResource Include="UserControls\UC_Clientes.resx">
       <DependentUpon>UC_Clientes.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UserControls\UC_Configuracoes.resx">
-      <DependentUpon>UC_Configuracoes.cs</DependentUpon>
+    <EmbeddedResource Include="UserControls\UC_Usuarios.resx">
+      <DependentUpon>UC_Usuarios.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UserControls\UC_Dashboard.resx">
       <DependentUpon>UC_Dashboard.cs</DependentUpon>

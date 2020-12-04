@@ -27,21 +27,18 @@ namespace NS_Venda.Forms
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            //if (isFormValid())
-            //{
-            //    if (checkLogin())
-            //    {
-            //        using (Form_Dashboard fd = new Form_Dashboard())
-            //        {
-            //            fd.ShowDialog();
-            //        }
-            //    }
-            //}
-
-            using (Form_Dashboard fd = new Form_Dashboard())
+            if (isFormValid())
             {
-                fd.ShowDialog();
+                if (checkLogin())
+                {
+                    using (Form_Dashboard fd = new Form_Dashboard())
+                    {
+                        fd.ShowDialog();
+                    }
+                }
             }
+
+           
              
             
         }
