@@ -29,11 +29,11 @@
         private void InitializeComponent()
         {
             this.gradientPanel1 = new NS_Venda.GradientPanel();
+            this.btnEntrar = new System.Windows.Forms.Button();
             this.labelPronto = new System.Windows.Forms.Label();
             this.labelAcertarHora = new System.Windows.Forms.Label();
             this.labelHoje = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.btnEntrar = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
@@ -45,11 +45,11 @@
             // 
             this.gradientPanel1.ColorBottom = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.gradientPanel1.ColorTop = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.gradientPanel1.Controls.Add(this.btnEntrar);
             this.gradientPanel1.Controls.Add(this.labelPronto);
             this.gradientPanel1.Controls.Add(this.labelAcertarHora);
             this.gradientPanel1.Controls.Add(this.labelHoje);
             this.gradientPanel1.Controls.Add(this.label4);
-            this.gradientPanel1.Controls.Add(this.btnEntrar);
             this.gradientPanel1.Controls.Add(this.label3);
             this.gradientPanel1.Controls.Add(this.label2);
             this.gradientPanel1.Controls.Add(this.label1);
@@ -61,6 +61,22 @@
             this.gradientPanel1.TabIndex = 0;
             this.gradientPanel1.Click += new System.EventHandler(this.gradientPanel1_Click);
             this.gradientPanel1.Paint += new System.Windows.Forms.PaintEventHandler(this.gradientPanel1_Paint);
+            // 
+            // btnEntrar
+            // 
+            this.btnEntrar.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.btnEntrar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnEntrar.FlatAppearance.BorderSize = 0;
+            this.btnEntrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEntrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEntrar.ForeColor = System.Drawing.Color.White;
+            this.btnEntrar.Location = new System.Drawing.Point(378, 252);
+            this.btnEntrar.Name = "btnEntrar";
+            this.btnEntrar.Size = new System.Drawing.Size(180, 58);
+            this.btnEntrar.TabIndex = 9;
+            this.btnEntrar.Text = "Entrar";
+            this.btnEntrar.UseVisualStyleBackColor = false;
+            this.btnEntrar.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // labelPronto
             // 
@@ -82,9 +98,9 @@
             this.labelAcertarHora.ForeColor = System.Drawing.Color.Maroon;
             this.labelAcertarHora.Location = new System.Drawing.Point(287, 359);
             this.labelAcertarHora.Name = "labelAcertarHora";
-            this.labelAcertarHora.Size = new System.Drawing.Size(360, 19);
+            this.labelAcertarHora.Size = new System.Drawing.Size(356, 19);
             this.labelAcertarHora.TabIndex = 7;
-            this.labelAcertarHora.Text = "Por favor, acerte a hora do teu computador";
+            this.labelAcertarHora.Text = "Por favor, acerte a data do teu computador";
             this.labelAcertarHora.Visible = false;
             // 
             // labelHoje
@@ -112,22 +128,6 @@
             this.label4.TabIndex = 4;
             this.label4.Text = "X";
             this.label4.Click += new System.EventHandler(this.label4_Click);
-            // 
-            // btnEntrar
-            // 
-            this.btnEntrar.BackColor = System.Drawing.Color.Transparent;
-            this.btnEntrar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnEntrar.FlatAppearance.BorderColor = System.Drawing.Color.Gray;
-            this.btnEntrar.FlatAppearance.BorderSize = 5;
-            this.btnEntrar.Font = new System.Drawing.Font("Century Schoolbook", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEntrar.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btnEntrar.Location = new System.Drawing.Point(376, 285);
-            this.btnEntrar.Name = "btnEntrar";
-            this.btnEntrar.Size = new System.Drawing.Size(176, 40);
-            this.btnEntrar.TabIndex = 3;
-            this.btnEntrar.Text = "Entrar";
-            this.btnEntrar.UseVisualStyleBackColor = false;
-            this.btnEntrar.Click += new System.EventHandler(this.button1_Click);
             // 
             // label3
             // 
@@ -174,7 +174,7 @@
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(200, 20);
             this.dateTimePicker1.TabIndex = 6;
-            this.dateTimePicker1.Value = new System.DateTime(2020, 12, 1, 0, 0, 0, 0);
+            this.dateTimePicker1.Value = new System.DateTime(2020, 12, 4, 0, 0, 0, 0);
             this.dateTimePicker1.Visible = false;
             // 
             // Form1
@@ -199,12 +199,12 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button btnEntrar;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label labelHoje;
         private System.Windows.Forms.DateTimePicker dateTimePicker1;
         private System.Windows.Forms.Label labelAcertarHora;
         private System.Windows.Forms.Label labelPronto;
+        private System.Windows.Forms.Button btnEntrar;
     }
 }
 

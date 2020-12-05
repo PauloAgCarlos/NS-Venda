@@ -84,5 +84,10 @@ namespace NS_Venda.UserControls
                 this.OnLoad(e);
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

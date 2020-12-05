@@ -25,14 +25,21 @@ namespace NS_Venda.Forms
             Application.Exit();
         }
 
+        public void Alert(string msg, Form_Alert.enmType type)
+        {
+            Form_Alert frm = new Form_Alert();
+            frm.showAlert(msg, type);
+        }
         private void btnLogin_Click(object sender, EventArgs e)
         {
             if (isFormValid())
             {
                 if (checkLogin())
                 {
+                    this.Alert("Success Alert", Form_Alert.enmType.Success);
                     using (Form_Dashboard fd = new Form_Dashboard())
                     {
+                        
                         fd.ShowDialog();
                     }
                 }

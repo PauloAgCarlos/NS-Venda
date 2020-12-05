@@ -59,5 +59,12 @@ namespace NS_Venda
                 btnEntrar.Enabled = false;
             }
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Form_Login login = new Form_Login();
+            login.ShowDialog();
+            this.Dispose();
+        }
     }
 }
