@@ -52,6 +52,7 @@
             this.txtID.Name = "txtID";
             this.txtID.Size = new System.Drawing.Size(169, 20);
             this.txtID.TabIndex = 24;
+            this.txtID.TextChanged += new System.EventHandler(this.txtID_TextChanged);
             // 
             // label8
             // 
@@ -71,6 +72,7 @@
             this.txtPreco.Name = "txtPreco";
             this.txtPreco.Size = new System.Drawing.Size(169, 20);
             this.txtPreco.TabIndex = 22;
+            this.txtPreco.TextChanged += new System.EventHandler(this.txtPreco_TextChanged);
             // 
             // label7
             // 
@@ -99,6 +101,7 @@
             // 
             // btnSalvar
             // 
+            this.btnSalvar.Enabled = false;
             this.btnSalvar.FlatAppearance.BorderSize = 2;
             this.btnSalvar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSalvar.ForeColor = System.Drawing.Color.Green;
@@ -108,6 +111,7 @@
             this.btnSalvar.TabIndex = 19;
             this.btnSalvar.Text = "Salvar";
             this.btnSalvar.UseVisualStyleBackColor = true;
+            this.btnSalvar.Click += new System.EventHandler(this.btnSalvar_Click);
             // 
             // cmbCategoria
             // 
@@ -139,6 +143,7 @@
             this.txtExistencia.Name = "txtExistencia";
             this.txtExistencia.Size = new System.Drawing.Size(163, 20);
             this.txtExistencia.TabIndex = 12;
+            this.txtExistencia.TextChanged += new System.EventHandler(this.txtExistencia_TextChanged);
             // 
             // label2
             // 
@@ -158,6 +163,7 @@
             this.txtNome.Name = "txtNome";
             this.txtNome.Size = new System.Drawing.Size(163, 20);
             this.txtNome.TabIndex = 10;
+            this.txtNome.TextChanged += new System.EventHandler(this.txtNome_TextChanged);
             // 
             // label1
             // 

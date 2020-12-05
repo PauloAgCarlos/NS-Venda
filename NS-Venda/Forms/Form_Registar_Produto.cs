@@ -58,5 +58,10 @@ namespace NS_Venda.Forms
                 return true;
         }
 
+        private void txtPreco_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }

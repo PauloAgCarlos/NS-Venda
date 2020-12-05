@@ -71,6 +71,7 @@
             this.txtPreco.Name = "txtPreco";
             this.txtPreco.Size = new System.Drawing.Size(169, 20);
             this.txtPreco.TabIndex = 22;
+            this.txtPreco.TextChanged += new System.EventHandler(this.txtPreco_TextChanged);
             // 
             // label7
             // 
