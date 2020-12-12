@@ -91,7 +91,7 @@ namespace NS_Venda.Forms
 
         private void btnExpense_Click(object sender, EventArgs e)
         {
-            UC_Clientes uc = new UC_Clientes();
+            UC_Entradas uc = new UC_Entradas();
             AddControls(uc);
         }
 

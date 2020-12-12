@@ -10,7 +10,6 @@ C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS_Venda.Forms.Form_Login.resources
 C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS_Venda.Forms.Form_Dashboard.resources
 C:\PerfLogs\NS-Venda\NS-Venda\bin\Debug\SLRDbConnector.dll
 C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS_Venda.UserControls.UC_Dashboard.resources
-C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS_Venda.UserControls.UC_Clientes.resources
 C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS_Venda.UserControls.UC_Fornecedores.resources
 C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS_Venda.UserControls.UC_Produtos.resources
 C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS_Venda.UserControls.UC_Relatorios.resources
@@ -18,6 +17,7 @@ C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS_Venda.UserControls.UC_Vendas.resource
 C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS_Venda.UserControls.UC_Usuarios.resources
 C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS_Venda.Forms.Form_Editar_Usuario.resources
 C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS_Venda.Forms.Form_Alert.resources
-C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS-Venda.csprojResolveAssemblyReference.cache
 C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS_Venda.Forms.Form_Editar_Produto.resources
 C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS_Venda.Forms.Form_Registar_Produto.resources
+C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS_Venda.UserControls.UC_Entradas.resources
+C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS-Venda.csprojResolveAssemblyReference.cache

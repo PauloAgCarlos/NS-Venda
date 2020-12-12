@@ -76,5 +76,10 @@ namespace NS_Venda.Forms
                 return true;
             }
         }
+
+        private void Form_Login_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

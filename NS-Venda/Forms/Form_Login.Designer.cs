@@ -196,7 +196,7 @@
             this.label7.BackColor = System.Drawing.Color.Transparent;
             this.label7.Font = new System.Drawing.Font("Monotype Corsiva", 20.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.DimGray;
-            this.label7.Location = new System.Drawing.Point(508, 84);
+            this.label7.Location = new System.Drawing.Point(581, 88);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(291, 33);
             this.label7.TabIndex = 18;
@@ -208,7 +208,7 @@
             this.label8.BackColor = System.Drawing.Color.Transparent;
             this.label8.Font = new System.Drawing.Font("Cooper Black", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.DimGray;
-            this.label8.Location = new System.Drawing.Point(439, 29);
+            this.label8.Location = new System.Drawing.Point(512, 33);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(403, 55);
             this.label8.TabIndex = 17;
@@ -231,6 +231,7 @@
             this.Name = "Form_Login";
             this.Text = "Form_Login";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.Load += new System.EventHandler(this.Form_Login_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

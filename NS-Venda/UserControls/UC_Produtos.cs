@@ -113,5 +113,10 @@ namespace NS_Venda.UserControls
                  
             }
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

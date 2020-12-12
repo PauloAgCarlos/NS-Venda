@@ -29,17 +29,17 @@
         private void InitializeComponent()
         {
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.comboBox3 = new System.Windows.Forms.ComboBox();
+            this.cmbFuncao = new System.Windows.Forms.ComboBox();
             this.button4 = new System.Windows.Forms.Button();
             this.btnEliminar = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.btnEditar = new System.Windows.Forms.Button();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtTelefone = new System.Windows.Forms.TextBox();
+            this.txtEmail = new System.Windows.Forms.TextBox();
+            this.txtMorada = new System.Windows.Forms.TextBox();
+            this.txtPalavraPasse = new System.Windows.Forms.TextBox();
+            this.txtNomeUsuario = new System.Windows.Forms.TextBox();
+            this.txtNomeCompleto = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
@@ -69,18 +69,18 @@
             this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
-            // comboBox3
+            // cmbFuncao
             // 
-            this.comboBox3.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.comboBox3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Items.AddRange(new object[] {
+            this.cmbFuncao.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.cmbFuncao.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbFuncao.FormattingEnabled = true;
+            this.cmbFuncao.Items.AddRange(new object[] {
             "Admin",
             "Employee"});
-            this.comboBox3.Location = new System.Drawing.Point(639, 232);
-            this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(244, 21);
-            this.comboBox3.TabIndex = 43;
+            this.cmbFuncao.Location = new System.Drawing.Point(639, 232);
+            this.cmbFuncao.Name = "cmbFuncao";
+            this.cmbFuncao.Size = new System.Drawing.Size(244, 21);
+            this.cmbFuncao.TabIndex = 43;
             // 
             // button4
             // 
@@ -96,6 +96,7 @@
             this.button4.TabIndex = 40;
             this.button4.Text = "Limpar";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // btnEliminar
             // 
@@ -147,53 +148,53 @@
             this.btnEditar.UseVisualStyleBackColor = false;
             this.btnEditar.Click += new System.EventHandler(this.button1_Click);
             // 
-            // textBox2
+            // txtTelefone
             // 
-            this.textBox2.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.textBox2.Location = new System.Drawing.Point(639, 82);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(244, 20);
-            this.textBox2.TabIndex = 37;
+            this.txtTelefone.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.txtTelefone.Location = new System.Drawing.Point(639, 82);
+            this.txtTelefone.Name = "txtTelefone";
+            this.txtTelefone.Size = new System.Drawing.Size(244, 20);
+            this.txtTelefone.TabIndex = 37;
             // 
-            // textBox4
+            // txtEmail
             // 
-            this.textBox4.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.textBox4.Location = new System.Drawing.Point(639, 130);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(244, 20);
-            this.textBox4.TabIndex = 36;
+            this.txtEmail.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.txtEmail.Location = new System.Drawing.Point(639, 130);
+            this.txtEmail.Name = "txtEmail";
+            this.txtEmail.Size = new System.Drawing.Size(244, 20);
+            this.txtEmail.TabIndex = 36;
             // 
-            // textBox6
+            // txtMorada
             // 
-            this.textBox6.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.textBox6.Location = new System.Drawing.Point(639, 182);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(244, 20);
-            this.textBox6.TabIndex = 38;
+            this.txtMorada.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.txtMorada.Location = new System.Drawing.Point(639, 182);
+            this.txtMorada.Name = "txtMorada";
+            this.txtMorada.Size = new System.Drawing.Size(244, 20);
+            this.txtMorada.TabIndex = 38;
             // 
-            // textBox5
+            // txtPalavraPasse
             // 
-            this.textBox5.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.textBox5.Location = new System.Drawing.Point(286, 184);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(199, 20);
-            this.textBox5.TabIndex = 35;
+            this.txtPalavraPasse.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.txtPalavraPasse.Location = new System.Drawing.Point(286, 184);
+            this.txtPalavraPasse.Name = "txtPalavraPasse";
+            this.txtPalavraPasse.Size = new System.Drawing.Size(199, 20);
+            this.txtPalavraPasse.TabIndex = 35;
             // 
-            // textBox3
+            // txtNomeUsuario
             // 
-            this.textBox3.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.textBox3.Location = new System.Drawing.Point(286, 132);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(199, 20);
-            this.textBox3.TabIndex = 34;
+            this.txtNomeUsuario.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.txtNomeUsuario.Location = new System.Drawing.Point(286, 132);
+            this.txtNomeUsuario.Name = "txtNomeUsuario";
+            this.txtNomeUsuario.Size = new System.Drawing.Size(199, 20);
+            this.txtNomeUsuario.TabIndex = 34;
             // 
-            // textBox1
+            // txtNomeCompleto
             // 
-            this.textBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.textBox1.Location = new System.Drawing.Point(286, 82);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(199, 20);
-            this.textBox1.TabIndex = 33;
+            this.txtNomeCompleto.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.txtNomeCompleto.Location = new System.Drawing.Point(286, 82);
+            this.txtNomeCompleto.Name = "txtNomeCompleto";
+            this.txtNomeCompleto.Size = new System.Drawing.Size(199, 20);
+            this.txtNomeCompleto.TabIndex = 33;
             // 
             // label9
             // 
@@ -289,17 +290,17 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.Controls.Add(this.dataGridView1);
-            this.Controls.Add(this.comboBox3);
+            this.Controls.Add(this.cmbFuncao);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.btnEliminar);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.btnEditar);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.textBox6);
-            this.Controls.Add(this.textBox5);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtTelefone);
+            this.Controls.Add(this.txtEmail);
+            this.Controls.Add(this.txtMorada);
+            this.Controls.Add(this.txtPalavraPasse);
+            this.Controls.Add(this.txtNomeUsuario);
+            this.Controls.Add(this.txtNomeCompleto);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label5);
@@ -320,17 +321,17 @@
         #endregion
 
         private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.ComboBox comboBox3;
+        private System.Windows.Forms.ComboBox cmbFuncao;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button btnEliminar;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button btnEditar;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox6;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtTelefone;
+        private System.Windows.Forms.TextBox txtEmail;
+        private System.Windows.Forms.TextBox txtMorada;
+        private System.Windows.Forms.TextBox txtPalavraPasse;
+        private System.Windows.Forms.TextBox txtNomeUsuario;
+        private System.Windows.Forms.TextBox txtNomeCompleto;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label5;

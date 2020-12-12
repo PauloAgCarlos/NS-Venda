@@ -51,7 +51,7 @@ namespace NS_Venda.UserControls
                 btnEliminar.Enabled = true;
             }
 
-            textBox1.Text = usuarioId;
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -79,7 +79,7 @@ namespace NS_Venda.UserControls
             if (usuarioId != null)
             {
                 string funcao;
-                db.getSingleValue("delete from tblUsuarios where id = '" +textBox1.Text + "'", out funcao, 0);
+                db.getSingleValue("delete from tblUsuarios where id = '" +usuarioId + "'", out funcao, 0);
                 MessageBox.Show("Registo eliminado com suceso!...", "Registo eliminado", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 this.OnLoad(e);
             }
@@ -87,7 +87,55 @@ namespace NS_Venda.UserControls
 
         private void button2_Click(object sender, EventArgs e)
         {
+            if (isFormValid())
+            {
+                inserirRegisto();
+            }
+        }
 
+        private void inserirRegisto()
+        {
+
+
+            db.performCRUD("insert into tblUsuarios (nomecompleto,nomeusuario,palavrapasse,morada, telefone, email, funcao) Values ('" + txtNomeCompleto.Text + "','" + txtNomeUsuario.Text + "','" + txtPalavraPasse.Text + "','" + txtMorada.Text + "','" + txtTelefone.Text + "','" + txtEmail.Text + "','" + cmbFuncao.SelectedItem.ToString() + "')");
+            MessageBox.Show("Usuário adicionado com sucesso!...", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+            limpar();
+
+        }
+
+        private bool isFormValid()
+        {
+            if (txtNomeCompleto.Text.Trim() == string.Empty
+                || txtNomeUsuario.Text.Trim() == string.Empty
+                || txtPalavraPasse.Text.Trim() == string.Empty
+                || txtTelefone.Text.Trim() == string.Empty
+                || txtMorada.Text.Trim() == string.Empty
+                || txtEmail.Text.Trim() == string.Empty
+                || cmbFuncao.SelectedItem == null
+                )
+            {
+                MessageBox.Show("Por valor, preencha todos os campos");
+                return false;
+            }
+
+            else
+                return true;
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            limpar();
+        }
+        public void limpar()
+        {
+            txtEmail.Clear();
+            txtMorada.Clear();
+            txtNomeCompleto.Clear();
+            txtNomeUsuario.Clear();
+            txtPalavraPasse.Clear();
+            txtTelefone.Clear();
+            cmbFuncao.SelectedItem = null;
         }
     }
 }

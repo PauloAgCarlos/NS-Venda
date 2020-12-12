@@ -35,7 +35,7 @@
             this.panelSide = new System.Windows.Forms.Panel();
             this.btnViewSales = new System.Windows.Forms.Button();
             this.btnUsers = new System.Windows.Forms.Button();
-            this.btnExpense = new System.Windows.Forms.Button();
+            this.btnEntrada = new System.Windows.Forms.Button();
             this.btnPurchase = new System.Windows.Forms.Button();
             this.btnSaleBooks = new System.Windows.Forms.Button();
             this.btnHome = new System.Windows.Forms.Button();
@@ -93,6 +93,7 @@
             // btnViewSales
             // 
             this.btnViewSales.FlatAppearance.BorderSize = 0;
+            this.btnViewSales.FlatAppearance.MouseOverBackColor = System.Drawing.Color.RoyalBlue;
             this.btnViewSales.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnViewSales.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnViewSales.ForeColor = System.Drawing.Color.White;
@@ -110,6 +111,7 @@
             // btnUsers
             // 
             this.btnUsers.FlatAppearance.BorderSize = 0;
+            this.btnUsers.FlatAppearance.MouseOverBackColor = System.Drawing.Color.RoyalBlue;
             this.btnUsers.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnUsers.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnUsers.ForeColor = System.Drawing.Color.White;
@@ -124,26 +126,28 @@
             this.btnUsers.UseVisualStyleBackColor = true;
             this.btnUsers.Click += new System.EventHandler(this.btnUsers_Click);
             // 
-            // btnExpense
+            // btnEntrada
             // 
-            this.btnExpense.FlatAppearance.BorderSize = 0;
-            this.btnExpense.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnExpense.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnExpense.ForeColor = System.Drawing.Color.White;
-            this.btnExpense.Image = ((System.Drawing.Image)(resources.GetObject("btnExpense.Image")));
-            this.btnExpense.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnExpense.Location = new System.Drawing.Point(12, 336);
-            this.btnExpense.Name = "btnExpense";
-            this.btnExpense.Size = new System.Drawing.Size(203, 60);
-            this.btnExpense.TabIndex = 2;
-            this.btnExpense.Text = "Clientes";
-            this.btnExpense.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btnExpense.UseVisualStyleBackColor = true;
-            this.btnExpense.Click += new System.EventHandler(this.btnExpense_Click);
+            this.btnEntrada.FlatAppearance.BorderSize = 0;
+            this.btnEntrada.FlatAppearance.MouseOverBackColor = System.Drawing.Color.RoyalBlue;
+            this.btnEntrada.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEntrada.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEntrada.ForeColor = System.Drawing.Color.White;
+            this.btnEntrada.Image = ((System.Drawing.Image)(resources.GetObject("btnEntrada.Image")));
+            this.btnEntrada.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnEntrada.Location = new System.Drawing.Point(12, 336);
+            this.btnEntrada.Name = "btnEntrada";
+            this.btnEntrada.Size = new System.Drawing.Size(203, 60);
+            this.btnEntrada.TabIndex = 2;
+            this.btnEntrada.Text = "Entradas";
+            this.btnEntrada.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btnEntrada.UseVisualStyleBackColor = true;
+            this.btnEntrada.Click += new System.EventHandler(this.btnExpense_Click);
             // 
             // btnPurchase
             // 
             this.btnPurchase.FlatAppearance.BorderSize = 0;
+            this.btnPurchase.FlatAppearance.MouseOverBackColor = System.Drawing.Color.RoyalBlue;
             this.btnPurchase.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnPurchase.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPurchase.ForeColor = System.Drawing.Color.White;
@@ -161,6 +165,7 @@
             // btnSaleBooks
             // 
             this.btnSaleBooks.FlatAppearance.BorderSize = 0;
+            this.btnSaleBooks.FlatAppearance.MouseOverBackColor = System.Drawing.Color.RoyalBlue;
             this.btnSaleBooks.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSaleBooks.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSaleBooks.ForeColor = System.Drawing.Color.White;
@@ -178,6 +183,8 @@
             // btnHome
             // 
             this.btnHome.FlatAppearance.BorderSize = 0;
+            this.btnHome.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Blue;
+            this.btnHome.FlatAppearance.MouseOverBackColor = System.Drawing.Color.RoyalBlue;
             this.btnHome.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnHome.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnHome.ForeColor = System.Drawing.Color.White;
@@ -369,7 +376,7 @@
             this.panelLeft.Controls.Add(this.panelSide);
             this.panelLeft.Controls.Add(this.btnViewSales);
             this.panelLeft.Controls.Add(this.btnUsers);
-            this.panelLeft.Controls.Add(this.btnExpense);
+            this.panelLeft.Controls.Add(this.btnEntrada);
             this.panelLeft.Controls.Add(this.btnPurchase);
             this.panelLeft.Controls.Add(this.btnSaleBooks);
             this.panelLeft.Controls.Add(this.btnHome);
@@ -383,6 +390,7 @@
             // btnUsuarios
             // 
             this.btnUsuarios.FlatAppearance.BorderSize = 0;
+            this.btnUsuarios.FlatAppearance.MouseOverBackColor = System.Drawing.Color.RoyalBlue;
             this.btnUsuarios.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnUsuarios.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnUsuarios.ForeColor = System.Drawing.Color.White;
@@ -439,7 +447,7 @@
         private System.Windows.Forms.Panel panelSide;
         private System.Windows.Forms.Button btnViewSales;
         private System.Windows.Forms.Button btnUsers;
-        private System.Windows.Forms.Button btnExpense;
+        private System.Windows.Forms.Button btnEntrada;
         private System.Windows.Forms.Button btnPurchase;
         private System.Windows.Forms.Button btnSaleBooks;
         private System.Windows.Forms.Button btnHome;

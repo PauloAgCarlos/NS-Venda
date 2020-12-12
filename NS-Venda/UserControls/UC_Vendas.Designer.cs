@@ -305,6 +305,7 @@
             this.button7.TabIndex = 2;
             this.button7.Text = "Finalizar Compra";
             this.button7.UseVisualStyleBackColor = false;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // button6
             // 

@@ -94,11 +94,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UserControls\UC_Clientes.cs">
+    <Compile Include="UserControls\UC_Entradas.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UserControls\UC_Clientes.Designer.cs">
-      <DependentUpon>UC_Clientes.cs</DependentUpon>
+    <Compile Include="UserControls\UC_Entradas.Designer.cs">
+      <DependentUpon>UC_Entradas.cs</DependentUpon>
     </Compile>
     <Compile Include="UserControls\UC_Usuarios.cs">
       <SubType>UserControl</SubType>
@@ -167,8 +167,8 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="UserControls\UC_Clientes.resx">
-      <DependentUpon>UC_Clientes.cs</DependentUpon>
+    <EmbeddedResource Include="UserControls\UC_Entradas.resx">
+      <DependentUpon>UC_Entradas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UserControls\UC_Usuarios.resx">
       <DependentUpon>UC_Usuarios.cs</DependentUpon>
