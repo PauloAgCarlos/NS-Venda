@@ -21,3 +21,5 @@ C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS_Venda.Forms.Form_Editar_Produto.resou
 C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS_Venda.Forms.Form_Registar_Produto.resources
 C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS_Venda.UserControls.UC_Entradas.resources
 C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS-Venda.csprojResolveAssemblyReference.cache
+C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS_Venda.Forms.Form_Editar_Fornecedor.resources
+C:\PerfLogs\NS-Venda\NS-Venda\obj\Debug\NS_Venda.Forms.Form_Registar_Fornecedor.resources

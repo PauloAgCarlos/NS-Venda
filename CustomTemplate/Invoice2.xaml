@@ -1,0 +1,262 @@
+﻿<UserControl
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk"
+    xmlns:System="clr-namespace:System;assembly=mscorlib"
+    x:Class="CustomTemplate.Invoice"
+    mc:Ignorable="d" Width="772" Height="1066">
+    <StackPanel Background="White">
+        <Button Content="Imprimir Factura" Name="btnPrint" Click="btnPrint_Click" Cursor="Hand" />
+        <Border BorderThickness="1" BorderBrush="#FF504F4F">
+
+            <Grid x:Name="LayoutRoot">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="17*"/>
+                    <ColumnDefinition Width="806*"/>
+                    <ColumnDefinition Width="0*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.053*"/>
+                    <RowDefinition Height="0.08*"/>
+                    <RowDefinition Height="0.533*"/>
+                    <RowDefinition Height="0.133*"/>
+                    <RowDefinition Height="0.2*"/>
+                </Grid.RowDefinitions>
+
+                <Rectangle Grid.Column="1" HorizontalAlignment="Left"  VerticalAlignment="Top" Height="122" Margin="29,836,0,0" Width="394" Stroke="Black"/>
+
+                <Rectangle Grid.Column="1" HorizontalAlignment="Left"  VerticalAlignment="Top" Height="70" Margin="29,759,0,0" Width="394" Stroke="Black"/>
+
+                <Rectangle Grid.Column="1" HorizontalAlignment="Left"  VerticalAlignment="Top" Height="155" Margin="29,104,0,0" Width="426" Stroke="Black"/>
+
+                <Grid HorizontalAlignment="Left" Width="773" Grid.ColumnSpan="3" Margin="-2,47,-1,44"/>
+
+                <sdk:DataGrid ItemsSource="{Binding Screen.Saidas, Mode=OneWay}"
+            		AutoGenerateColumns="False" Margin="29,297,4,851" Grid.Column="1" HorizontalGridLinesBrush="#FF42005B" RowBackground="{x:Null}" VerticalGridLinesBrush="Black" Foreground="Black" GridLinesVisibility="Horizontal" HeadersVisibility="Column" >
+                    <sdk:DataGrid.BorderBrush>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FFA3AEB9" Offset="0"/>
+                            <GradientStop Color="#FF8399A9" Offset="0.375"/>
+                            <GradientStop Color="#FF718597" Offset="0.375"/>
+                            <GradientStop Color="#FF9B0000" Offset="1"/>
+                        </LinearGradientBrush>
+                    </sdk:DataGrid.BorderBrush>
+                    <sdk:DataGrid.Columns>
+
+                        <sdk:DataGridTextColumn Binding="{Binding Quantidade}" CanUserSort="True" DisplayIndex="0"
+            				Header="Quantidade" MaxWidth="100" MinWidth="100" Visibility="Visible" Width="Auto"/>
+                        <sdk:DataGridTextColumn Binding="{Binding Produtos}" CanUserSort="True" DisplayIndex="1"
+            				Header="Produtos" MaxWidth="350" MinWidth="250" Visibility="Visible" Width="Auto"/>
+                        <sdk:DataGridTextColumn Binding="{Binding Preco}" CanUserSort="True" DisplayIndex="2"
+            				Header="Preço" MaxWidth="200" MinWidth="150" Visibility="Visible" Width="Auto"/>
+                        <sdk:DataGridTextColumn Binding="{Binding Total}" CanUserSort="True" DisplayIndex="3"
+            				Header="Total" MaxWidth="500" MinWidth="200" Visibility="Visible" Width="Auto"/>
+
+                    </sdk:DataGrid.Columns>
+                </sdk:DataGrid>
+                <TextBlock Grid.Column="1" Height="16" Grid.Row="4" TextWrapping="Wrap"
+            		Text="{Binding Screen.Clientes.SelectedItem.TotalAPagar}"
+            		VerticalAlignment="Top" Margin="213,48,0,-14" Foreground="#FFFF2C2C"/>
+                <TextBlock Grid.Column="1" Height="16" Grid.Row="4" TextWrapping="Wrap"
+            		Text="{Binding Screen.Clientes.SelectedItem.CreatedBy}"
+            		VerticalAlignment="Top" Margin="213,120,0,-86" Foreground="#FF080707" Opacity="0"/>
+
+
+                <TextBlock TextWrapping="Wrap"
+            		Text="DANIEL BINGA COMPANY"  HorizontalAlignment="Left" 
+            		Grid.Column="1" Height="37" Margin="29,47,0,0" VerticalAlignment="Top" Width="486" FontSize="34" FontFamily="Bell MT" FontWeight="Bold" TextDecorations="Underline" Foreground="#FF1D1D1D" />
+
+                <TextBlock TextWrapping="Wrap"
+            		Text="Nome: " FontWeight="Bold" VerticalAlignment="Top" 
+            		Grid.Column="1" HorizontalAlignment="Left" Height="25" Margin="36,110,0,0" Width="41" FontSize="12"/>
+
+
+                <TextBlock TextWrapping="Wrap"
+            		Text="Endereço: " FontWeight="Bold" VerticalAlignment="Top"
+            		Grid.Column="1" HorizontalAlignment="Left" Height="25" Margin="36,135,0,0" Width="77" FontSize="12"/>
+
+                <TextBlock TextWrapping="Wrap"
+            		Text="Localidade:" FontWeight="Bold" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1" Height="25" Margin="36,160,0,0" Width="77" FontSize="12"/>
+
+                <TextBlock TextWrapping="Wrap"
+            		Text="Telefone:" FontWeight="Bold" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1" Height="25" Margin="36,185,0,0" Width="77" FontSize="12"/>
+                <TextBlock TextWrapping="Wrap"
+            		Text="NIF:" FontWeight="Bold" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1" Height="25" Margin="36,210,0,0" Width="77" FontSize="12"/>
+
+                <TextBlock TextWrapping="Wrap"
+            		Text="E-mail:" FontWeight="Bold" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1" Height="25" Margin="36,231,0,0"  Width="77" FontSize="12"/>
+
+
+                <!--Rodape-->
+                <TextBlock TextWrapping="Wrap"
+            		Text="Millennium - AO06.0055.0000.3340.3814.1018.3&#xA;BAI - AO06.0040.0000.1462.5158.1019.6&#xA;BFA - AO06.0006.0000.0721.3580.3019.5" FontWeight="Bold" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1"  Height="65" Margin="39,766,0,0" Width="376" FontSize="13.333"/>
+
+                <TextBlock TextWrapping="Wrap"
+            		Text="Endereço: Bairro Forte Santa Rita / Moçâmedes - Namibe&#xA;Data: &#xA;Telefone: 929 925 811&#xA;NIF: 000838496NE031&#xA;E-mail: danielbingacompany@gmail.com" FontWeight="Bold"
+            		Grid.Column="1"  HorizontalAlignment="Left" Height="122" Margin="40,839,0,0" VerticalAlignment="Top" Width="449" FontSize="13.333"/>
+
+                <TextBlock TextWrapping="Wrap"
+            		Text="                                        O Responsável" FontWeight="Bold" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1" Height="26" Margin="465,969,-13,0" Width="302" FlowDirection="RightToLeft" FontSize="13.333" Foreground="Black" Grid.ColumnSpan="2"/>
+
+                <TextBlock TextWrapping="Wrap"
+            		Text="................................................................................................." FontWeight="Bold" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1" Height="25" Margin="443,997,-17,0" Width="328" Grid.ColumnSpan="2"/>
+
+                <TextBlock TextWrapping="Wrap"
+            		Text="Obs: Esta factura não justifica o pagamento" FontWeight="Bold" 
+            		Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="29,994,0,0" VerticalAlignment="Top" Width="346" FontSize="12"/>
+
+                <CheckBox Content="Regime geral" 
+            		FontWeight="Bold" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1" Height="16" Margin="596,130,0,0" Width="149" FlowDirection="RightToLeft" Foreground="Black"/>
+
+                <CheckBox Content="Regime Geral - IVA de Caixa" 
+            		FontWeight="Bold" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1" Height="16" Margin="546,152,0,0" Width="199" FlowDirection="RightToLeft" Foreground="Black"/>
+
+                <CheckBox Content="Regime de Não Sujeição" 
+            		FontWeight="Bold" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1" Height="16" Margin="574,169,0,0" Width="171" FlowDirection="RightToLeft" Foreground="Black" IsChecked="True"/>
+
+                <CheckBox Content="Regime Transitório" 
+            		FontWeight="Bold" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1" Height="16" Margin="596,186,0,0" Width="149" FlowDirection="RightToLeft" Foreground="Black"/>
+
+
+                <TextBlock TextWrapping="Wrap"
+            		Text="FACTURA GOBAL FGM 71J2020/.........................." FontWeight="Bold" VerticalAlignment="Top" 
+            		Grid.Column="1" HorizontalAlignment="Left" Height="22" Margin="478,62,-92,0" Width="368" Foreground="Black" TextDecorations="Underline" FontSize="13.333" Grid.ColumnSpan="2"/>
+
+                <Border Grid.Column="1"   BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="20" Margin="29,700,0,0" VerticalAlignment="Top" Width="721"/>
+
+
+                <TextBlock TextWrapping="Wrap"
+            		Text="Motivos de Isenção: Nos termos da alínea d) do nº 1 do artigo 12º do CIVA" Margin="36,682,0,0" FontWeight="Bold" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1"  Height="18" Width="469" FontSize="10.667"/>
+
+                <Border Grid.Column="1" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="22" Margin="29,678,0,0" VerticalAlignment="Top" Width="721"/>
+
+                <TextBlock TextWrapping="Wrap"
+            		Text="São: " FontWeight="Bold" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1" Margin="36,700,0,0" FontSize="14.667" Height="21" Width="41"/>
+
+
+                <TextBlock x:Name="InvoiceDate" Grid.Column="3" HorizontalAlignment="Left" VerticalAlignment="Top" Height="0" Width="0" Margin="49,0,-49,0" />
+                <Rectangle Grid.Column="1" Fill="#FF010108" Height="2" Stroke="Black"
+            		VerticalAlignment="Center" Margin="0,4,0,44" Grid.Row="4"/>
+                <Rectangle Grid.Column="1" Fill="#FF010108" Height="1" Stroke="Black" VerticalAlignment="Bottom" Grid.Row="4" Margin="188,0,0,2"/>
+                <TextBlock TextWrapping="Wrap"
+            		Text="Total a Pagar:" FontWeight="Bold" Grid.Row="4" VerticalAlignment="Top" Margin="4,48,189,-14" Height="16" Grid.ColumnSpan="2"/>
+                <TextBlock Grid.Column="1" Height="19" TextWrapping="Wrap"
+            		Text="{Binding Screen.Clientes.SelectedItem.Nome}"
+            		VerticalAlignment="Top" Margin="113,110,313,0" Foreground="Black" FontSize="12"/>
+                <TextBlock TextWrapping="Wrap"
+            		Text="Produtos" FontWeight="Bold" Grid.Row="4" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1" Height="16" Width="58" Margin="4,16,0,0"/>
+                <TextBlock TextWrapping="Wrap"
+            		Text="Quantidade" FontWeight="Bold" Grid.Row="4" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1" Height="16" Width="73" Margin="211,16,0,0"/>
+                <TextBlock TextWrapping="Wrap"
+            		Text="Preço" FontWeight="Bold" Grid.Row="4" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1" Height="16" Width="39" Margin="292,16,0,0"/>
+                <TextBlock TextWrapping="Wrap"
+            		Text="Total" FontWeight="Bold" Grid.Row="4" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1" Height="16" Width="50" Margin="342,16,0,0"/>
+                <Grid HorizontalAlignment="Left" Width="290" Grid.ColumnSpan="2" Margin="-3,212,0,-208" Grid.Row="4">
+                    <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="VOLTE SEMPRE!..." VerticalAlignment="Top" Margin="10,30,0,0" Width="270" TextAlignment="Center" FontWeight="Bold"/>
+                </Grid>
+                <Grid HorizontalAlignment="Left" Width="289" Grid.ColumnSpan="2" Margin="-2,141,0,-143" Grid.Row="4">
+                    <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="OBRIGADO." VerticalAlignment="Top" Margin="10,30,0,0" Width="270" TextAlignment="Center" FontWeight="Bold"/>
+                </Grid>
+                <TextBlock TextWrapping="Wrap"
+            		Text="Entregou:" FontWeight="Bold" Grid.Row="4" VerticalAlignment="Top" Margin="4,66,189,-32" Height="16" Grid.ColumnSpan="2"/>
+                <TextBlock TextWrapping="Wrap"
+            		Text="Troco:" FontWeight="Bold" Grid.Row="4" VerticalAlignment="Top" Margin="4,82,189,-48" Height="16" Grid.ColumnSpan="2"/>
+                <TextBlock Grid.Column="1" Height="16" Grid.Row="4" TextWrapping="Wrap"
+            		Text="{Binding Screen.Saidas.SelectedItem.Entregou}"
+            		VerticalAlignment="Top" Margin="213,66,0,-32" Foreground="Black"/>
+                <TextBlock Grid.Column="1" Height="16" Grid.Row="4" TextWrapping="Wrap"
+            		Text="{Binding Screen.Saidas.SelectedItem.Troco}"
+            		VerticalAlignment="Top" Margin="213,82,0,-48" Foreground="Black"/>
+                <TextBlock TextWrapping="Wrap"
+            		Text="Vendido Por:" FontWeight="Bold" Grid.Row="4" VerticalAlignment="Top" Margin="0,120,187,-86" Height="16" Grid.Column="1" Opacity="0"/>
+                <TextBlock Grid.Column="1" Height="16" Grid.Row="4" TextWrapping="Wrap"
+            		Text="{Binding Screen.Clientes.SelectedItem.CreatedBy}"
+            		VerticalAlignment="Top" Margin="213,120,0,-86" Foreground="Black" Opacity="0"/>
+                <TextBlock TextWrapping="Wrap"
+            		Text="Kzs" FontWeight="Bold" Grid.Row="4" VerticalAlignment="Top" Margin="192,66,189,-32" Height="16" Grid.Column="1"/>
+                <TextBlock TextWrapping="Wrap"
+            		Text="Kzs" FontWeight="Bold" Grid.Row="4" Margin="192,82,187,-48" Grid.Column="1"/>
+
+
+                <TextBlock x:Name="tbData" TextWrapping="Wrap" FontWeight="Bold" VerticalAlignment="Top"
+            		Grid.Column="1" HorizontalAlignment="Left" Margin="85,858,0,0" Height="16" Width="268" Text="Data" FontSize="13"/>
+                <Rectangle Grid.ColumnSpan="2" Grid.Column="1" Fill="#FF010108" Height="2" Stroke="Black"
+            		VerticalAlignment="Center" Margin="0,1293,0,234"/>
+                <Rectangle Fill="#FF010108" Height="1" Stroke="Black" VerticalAlignment="Bottom" Margin="0,0,0,66" Grid.ColumnSpan="3"/>
+                <TextBlock TextWrapping="Wrap"
+            		Text="Total a Pagar:" FontWeight="Bold" VerticalAlignment="Top" Margin="536,766,121,0" Height="19" Grid.Column="1" FontSize="12"/>
+                <TextBlock Grid.Column="3" Height="16" TextWrapping="Wrap"
+            		Text="{Binding Screen.Clientes.SelectedItem.TotalAPagar}"
+            		VerticalAlignment="Top" Margin="1,1462,-1,0" Foreground="#FFFF2C2C"/>
+                <TextBlock Grid.Column="3" Height="16" TextWrapping="Wrap"
+            		Text="{Binding Screen.Clientes.SelectedItem.Nome, StringFormat=C}"
+            		VerticalAlignment="Top" Margin="1,1400,0,0" Foreground="Black"/>
+                <TextBlock TextWrapping="Wrap"
+            		Text="Produtos" FontWeight="Bold" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1" Height="16" Width="58" Margin="162,290,0,0"/>
+                <TextBlock TextWrapping="Wrap"
+            		Text="Quantidade" FontWeight="Bold" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1" Height="16" Width="73" Margin="40,290,0,0"/>
+                <TextBlock TextWrapping="Wrap"
+            		Text="Preço" FontWeight="Bold" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1" Height="16" Width="39" Margin="387,290,0,0"/>
+                <TextBlock TextWrapping="Wrap"
+            		Text="Total" FontWeight="Bold" VerticalAlignment="Top" HorizontalAlignment="Left" 
+            		Grid.Column="1" Height="16" Width="50" Margin="543,290,0,0"/>
+
+                <TextBlock Grid.Column="3" Height="16" TextWrapping="Wrap"
+            		Text="{Binding Screen.Saidas.SelectedItem.Entregou}"
+            		VerticalAlignment="Top" Margin="1,1480,-1,0" Foreground="Black"/>
+                <TextBlock Grid.Column="3" Height="16" TextWrapping="Wrap"
+            		Text="{Binding Screen.Saidas.SelectedItem.Troco}"
+            		VerticalAlignment="Top" Margin="1,1496,-1,0" Foreground="Black"/>
+                <TextBlock TextWrapping="Wrap"
+            		Text="Kzs" FontWeight="Bold" VerticalAlignment="Top" Margin="4,1480,9,0" Height="16" Grid.Column="2"/>
+                <TextBlock Grid.Column="1" Height="19" TextWrapping="Wrap"
+            		Text="{Binding Screen.Clientes.SelectedItem.TotalAPagar}"
+            		VerticalAlignment="Top" Margin="638,766,10,0" Foreground="Black" FontSize="12"/>
+                <TextBlock Grid.Column="1" Height="19" TextWrapping="Wrap"
+            		Text="{Binding Screen.Clientes.SelectedItem.Endereco}"
+            		VerticalAlignment="Top" Margin="113,135,313,0" Foreground="Black" FontSize="12"/>
+                <TextBlock Grid.Column="1" Height="19" TextWrapping="Wrap"
+            		Text="{Binding Screen.Clientes.SelectedItem.Localidade}"
+            		VerticalAlignment="Top" Margin="113,159,313,0" Foreground="Black" FontSize="12"/>
+                <TextBlock Grid.Column="1" Height="19" TextWrapping="Wrap"
+            		Text="{Binding Screen.Clientes.SelectedItem.Telefone}"
+            		VerticalAlignment="Top" Margin="113,183,313,0" Foreground="Black" FontSize="12"/>
+                <TextBlock Grid.Column="1" Height="19" TextWrapping="Wrap"
+            		Text="{Binding Screen.Clientes.SelectedItem.NIF}"
+            		VerticalAlignment="Top" Margin="113,207,313,0" Foreground="Black" FontSize="12"/>
+                <TextBlock Grid.Column="1" Height="19" TextWrapping="Wrap"
+            		Text="{Binding Screen.Clientes.SelectedItem.Email}"
+            		VerticalAlignment="Top" Margin="113,231,313,0" Foreground="Black" FontSize="12"/>
+                <Rectangle Grid.Column="1" HorizontalAlignment="Left"  VerticalAlignment="Top" Height="25" Margin="29,732,0,0" Width="394" Stroke="Black" RadiusY="9" RadiusX="9"/>
+                <TextBlock TextWrapping="Wrap"
+            		Text="Pagamento / Crédito" FontWeight="Bold" VerticalAlignment="Top" Margin="131,737,353,0" Height="19" Grid.Column="1" FontSize="12"/>
+                <Rectangle Grid.Column="1" HorizontalAlignment="Left"  VerticalAlignment="Top" Height="24" Margin="525,762,0,0" Width="225" Stroke="Black" RadiusY="10" RadiusX="10"/>
+            </Grid>
+
+
+        </Border>
+
+    </StackPanel>
+</UserControl>

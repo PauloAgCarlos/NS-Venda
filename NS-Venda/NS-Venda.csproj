@@ -65,6 +65,12 @@
     <Compile Include="Forms\Form_Dashboard.Designer.cs">
       <DependentUpon>Form_Dashboard.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\Form_Editar_Fornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form_Editar_Fornecedor.Designer.cs">
+      <DependentUpon>Form_Editar_Fornecedor.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Form_Editar_Produto.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -82,6 +88,12 @@
     </Compile>
     <Compile Include="Forms\Form_Login.Designer.cs">
       <DependentUpon>Form_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form_Registar_Fornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form_Registar_Fornecedor.Designer.cs">
+      <DependentUpon>Form_Registar_Fornecedor.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Form_Registar_Produto.cs">
       <SubType>Form</SubType>
@@ -145,6 +157,9 @@
     <EmbeddedResource Include="Forms\Form_Dashboard.resx">
       <DependentUpon>Form_Dashboard.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form_Editar_Fornecedor.resx">
+      <DependentUpon>Form_Editar_Fornecedor.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Form_Editar_Produto.resx">
       <DependentUpon>Form_Editar_Produto.cs</DependentUpon>
     </EmbeddedResource>
@@ -153,6 +168,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Form_Login.resx">
       <DependentUpon>Form_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form_Registar_Fornecedor.resx">
+      <DependentUpon>Form_Registar_Fornecedor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Form_Registar_Produto.resx">
       <DependentUpon>Form_Registar_Produto.cs</DependentUpon>

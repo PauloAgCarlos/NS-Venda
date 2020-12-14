@@ -60,8 +60,7 @@ namespace NS_Venda.UserControls
             //venda[cont-1] = "";
             
             db.performCRUD("insert into tblVendas (produto_id,cliente,quantidade,total,preco) Values ('" + txtID.Text + "','" + txtCliente.Text + "','" + txtQtd.Text + "','" + txtPreco.Text + "','" + total + "')");
-            MessageBox.Show("Usuário adicionado com sucesso!...", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
+          
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -77,7 +76,7 @@ namespace NS_Venda.UserControls
                 produtoId = item.Cells[0].Value.ToString();
                 nome = item.Cells[1].Value.ToString();
                 preco = item.Cells[2].Value.ToString();
-                existencia = item.Cells[3].Value.ToString();
+                existencia = db.performCRUD("select existencia from tblProdutos where id = 5002");
                  
 
                 btnAdicionar.Enabled = true;

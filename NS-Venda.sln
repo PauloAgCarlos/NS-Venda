@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NS-Venda", "NS-Venda\NS-Venda.csproj", "{75D009F8-298C-4BE0-8A18-98B739807AD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTemplate", "CustomTemplate\CustomTemplate.csproj", "{2195D319-C3F6-4B59-B807-AEEA94ADE3C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{75D009F8-298C-4BE0-8A18-98B739807AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75D009F8-298C-4BE0-8A18-98B739807AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75D009F8-298C-4BE0-8A18-98B739807AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2195D319-C3F6-4B59-B807-AEEA94ADE3C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2195D319-C3F6-4B59-B807-AEEA94ADE3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2195D319-C3F6-4B59-B807-AEEA94ADE3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2195D319-C3F6-4B59-B807-AEEA94ADE3C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -58,6 +58,14 @@ namespace NS_Venda
                 labelPronto.Visible = false;
                 btnEntrar.Enabled = false;
             }
+
+            else if (hoje > dateTimePicker2.Value)
+            {
+                labelTrial.Visible = true;
+                labelPronto.Visible = false;
+                btnEntrar.Enabled = false;
+            }
+             
         }
 
         private void button1_Click_1(object sender, EventArgs e)

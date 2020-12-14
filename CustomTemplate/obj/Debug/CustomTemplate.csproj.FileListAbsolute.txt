@@ -1,0 +1,1414 @@
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\CustomTemplate.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\CustomTemplate.pdb
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Data.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.xml
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Data.xml
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Púlico\NS-Software\CustomTemplate\obj\Debug\CustomTemplate.csprojResolveAssemblyReference.cache
+C:\Púlico\NS-Software\CustomTemplate\obj\Debug\Invoice.g.cs
+C:\Púlico\NS-Software\CustomTemplate\obj\Debug\CustomTemplate.g.resources
+C:\Púlico\NS-Software\CustomTemplate\obj\Debug\CustomTemplate.dll
+C:\Púlico\NS-Software\CustomTemplate\obj\Debug\CustomTemplate.pdb
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\CustomTemplate.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\CustomTemplate.pdb
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Data.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.xml
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Data.xml
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\obj\Debug\CustomTemplate.csprojResolveAssemblyReference.cache
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\obj\Debug\Invoice.g.cs
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\obj\Debug\CustomTemplate.g.resources
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\obj\Debug\CustomTemplate.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\obj\Debug\CustomTemplate.pdb
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.xml
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\PerfLogs\Nova pasta\NS-Software\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\obj\Debug\CustomTemplate.csprojResolveAssemblyReference.cache
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\obj\Debug\Invoice.g.cs
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\obj\Debug\CustomTemplate.g.resources
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\obj\Debug\CustomTemplate.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\obj\Debug\CustomTemplate.pdb
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\CustomTemplate.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\CustomTemplate.pdb
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Data.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.xml
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.xml
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Data.xml
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software1\NS-Software\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\CustomTemplate.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\CustomTemplate.pdb
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Data.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.xml
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.xml
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\System.Windows.Data.xml
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\obj\Debug\CustomTemplate.csprojResolveAssemblyReference.cache
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\obj\Debug\Invoice.g.cs
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\obj\Debug\CustomTemplate.g.resources
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\obj\Debug\CustomTemplate.dll
+C:\Users\TCHIYELA 2\Desktop\NS-Softwaree\NS-Software\CustomTemplate\obj\Debug\CustomTemplate.pdb
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\CustomTemplate.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\CustomTemplate.pdb
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\System.Windows.Controls.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\System.Windows.Data.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\System.Windows.Controls.xml
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.xml
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\System.Windows.Data.xml
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\obj\Debug\CustomTemplate.csprojResolveAssemblyReference.cache
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\obj\Debug\Invoice.g.cs
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\obj\Debug\CustomTemplate.g.resources
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\obj\Debug\CustomTemplate.dll
+C:\PerfLogs\Armazém Binga\NS-Software com factura a4\CustomTemplate\obj\Debug\CustomTemplate.pdb
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\CustomTemplate.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\CustomTemplate.pdb
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\System.Windows.Controls.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\System.Windows.Data.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\System.Windows.Controls.xml
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.xml
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\System.Windows.Data.xml
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\obj\Debug\Invoice.g.cs
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\obj\Debug\CustomTemplate.g.resources
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\obj\Debug\CustomTemplate.dll
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\obj\Debug\CustomTemplate.pdb
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\CustomTemplate.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\CustomTemplate.pdb
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\System.Windows.Controls.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\System.Windows.Data.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\System.Windows.Controls.xml
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.xml
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\System.Windows.Data.xml
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\obj\Debug\CustomTemplate.csprojResolveAssemblyReference.cache
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\obj\Debug\Invoice.g.cs
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\obj\Debug\CustomTemplate.g.resources
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\obj\Debug\CustomTemplate.dll
+C:\PerfLogs\NS-Software com factura a4 - Cópia\CustomTemplate\obj\Debug\CustomTemplate.pdb
+C:\PerfLogs\NS-Software com factura a4\CustomTemplate\obj\Debug\CustomTemplate.csprojResolveAssemblyReference.cache
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\CustomTemplate.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\CustomTemplate.pdb
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\System.Windows.Controls.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\System.Windows.Data.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\System.Windows.Controls.xml
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.xml
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\System.Windows.Data.xml
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\obj\Debug\Invoice.g.cs
+C:\PerfLogs\NS-Venda\CustomTemplate\obj\Debug\CustomTemplate.g.resources
+C:\PerfLogs\NS-Venda\CustomTemplate\obj\Debug\CustomTemplate.dll
+C:\PerfLogs\NS-Venda\CustomTemplate\obj\Debug\CustomTemplate.pdb
+C:\PerfLogs\NS-Venda\CustomTemplate\obj\Debug\CustomTemplate.csprojResolveAssemblyReference.cache

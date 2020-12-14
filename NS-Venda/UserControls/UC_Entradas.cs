@@ -87,8 +87,10 @@ namespace NS_Venda.UserControls
                 valExistencia = "select existencia from tblProdutos where nome like '%" + txtNome.Text + "%'";
                 int ex = Convert.ToInt32(existencia);
                 ex = ex + Convert.ToInt32(txtQtd.Text);
+                db.performCRUD("insert into tblEntradas (produto_id,quantidade) Values ('" + txtID.Text + "','" + txtQtd.Text + "')");
 
-                MessageBox.Show(ex.ToString(), "Entrada registada!...", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Usuário adicionado com sucesso!...", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
                 txtID.Text = "";
                 txtNome.Text = "";
                 txtPreco.Text = "";
@@ -127,7 +129,7 @@ namespace NS_Venda.UserControls
 
         private void UC_Entradas_Load(object sender, EventArgs e)
         {
-            db.fillDataGridView("select * from tblProdutos", dataGridView1);
+            db.fillDataGridView("select * from tblEntradas", dataGridView1);
         }
 
         string produtoId, nome, preco, existencia;

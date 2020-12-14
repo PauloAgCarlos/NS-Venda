@@ -56,6 +56,8 @@ namespace NS_Venda.Forms
         {
             DateTime dt = DateTime.Now;
             labelTime.Text = dt.ToString("HH:MM:ss");
+
+             
         }
 
         private void button8_Click(object sender, EventArgs e)

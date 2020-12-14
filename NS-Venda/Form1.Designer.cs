@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.gradientPanel1 = new NS_Venda.GradientPanel();
+            this.dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
             this.btnEntrar = new System.Windows.Forms.Button();
             this.labelPronto = new System.Windows.Forms.Label();
             this.labelAcertarHora = new System.Windows.Forms.Label();
@@ -38,6 +39,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
+            this.labelTrial = new System.Windows.Forms.Label();
             this.gradientPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -45,6 +47,8 @@
             // 
             this.gradientPanel1.ColorBottom = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.gradientPanel1.ColorTop = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.gradientPanel1.Controls.Add(this.labelTrial);
+            this.gradientPanel1.Controls.Add(this.dateTimePicker2);
             this.gradientPanel1.Controls.Add(this.btnEntrar);
             this.gradientPanel1.Controls.Add(this.labelPronto);
             this.gradientPanel1.Controls.Add(this.labelAcertarHora);
@@ -61,6 +65,17 @@
             this.gradientPanel1.TabIndex = 0;
             this.gradientPanel1.Click += new System.EventHandler(this.gradientPanel1_Click);
             this.gradientPanel1.Paint += new System.Windows.Forms.PaintEventHandler(this.gradientPanel1_Paint);
+            // 
+            // dateTimePicker2
+            // 
+            this.dateTimePicker2.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dateTimePicker2.Location = new System.Drawing.Point(674, 406);
+            this.dateTimePicker2.MinDate = new System.DateTime(2020, 12, 1, 0, 0, 0, 0);
+            this.dateTimePicker2.Name = "dateTimePicker2";
+            this.dateTimePicker2.Size = new System.Drawing.Size(200, 20);
+            this.dateTimePicker2.TabIndex = 10;
+            this.dateTimePicker2.Value = new System.DateTime(2020, 12, 31, 0, 0, 0, 0);
+            this.dateTimePicker2.Visible = false;
             // 
             // btnEntrar
             // 
@@ -177,6 +192,20 @@
             this.dateTimePicker1.Value = new System.DateTime(2020, 12, 4, 0, 0, 0, 0);
             this.dateTimePicker1.Visible = false;
             // 
+            // labelTrial
+            // 
+            this.labelTrial.AutoSize = true;
+            this.labelTrial.BackColor = System.Drawing.Color.Transparent;
+            this.labelTrial.Font = new System.Drawing.Font("Cooper Black", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelTrial.ForeColor = System.Drawing.Color.Maroon;
+            this.labelTrial.Location = new System.Drawing.Point(38, 356);
+            this.labelTrial.Name = "labelTrial";
+            this.labelTrial.Size = new System.Drawing.Size(795, 19);
+            this.labelTrial.TabIndex = 11;
+            this.labelTrial.Text = "Tempo de testagem do software terminado, por favor, faça a compra ou contacte o a" +
+    "dministrador";
+            this.labelTrial.Visible = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -205,6 +234,8 @@
         private System.Windows.Forms.Label labelAcertarHora;
         private System.Windows.Forms.Label labelPronto;
         private System.Windows.Forms.Button btnEntrar;
+        private System.Windows.Forms.DateTimePicker dateTimePicker2;
+        private System.Windows.Forms.Label labelTrial;
     }
 }
 
