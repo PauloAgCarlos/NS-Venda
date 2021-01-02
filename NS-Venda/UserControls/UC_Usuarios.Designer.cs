@@ -76,7 +76,7 @@
             this.cmbFuncao.FormattingEnabled = true;
             this.cmbFuncao.Items.AddRange(new object[] {
             "Admin",
-            "Employee"});
+            "Funcionário"});
             this.cmbFuncao.Location = new System.Drawing.Point(639, 232);
             this.cmbFuncao.Name = "cmbFuncao";
             this.cmbFuncao.Size = new System.Drawing.Size(244, 21);

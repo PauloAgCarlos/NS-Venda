@@ -10,5 +10,14 @@
 &lt;/SerializableConnectionString&gt;</DesignTimeValue>
       <Value Profile="(Default)">Data Source=(localdb)\projects;Initial Catalog=VendaDB;Integrated Security=True</Value>
     </Setting>
+    <Setting Name="NomeUsuario" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Paulo Agostinho Carlos</Value>
+    </Setting>
+    <Setting Name="FuncaoUsuario" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Admin</Value>
+    </Setting>
+    <Setting Name="NomeEmpresa" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">EMPRESA NOVA SOLUÇÃO</Value>
+    </Setting>
   </Settings>
 </SettingsFile>

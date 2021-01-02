@@ -10,6 +10,7 @@ namespace CustomTemplate
         public Invoice()
         {
             InitializeComponent();
+
             //tbData.Text = DateTime.Today.ToShortDateString();
             tbData.Text = DateTime.Now.ToString("dd/MM/yyyy - HH:mm:ss");
             //tbHora.Text = DateTime.Now.ToString("HH:mm:ss");

@@ -88,8 +88,9 @@ namespace NS_Venda.UserControls
                 int ex = Convert.ToInt32(existencia);
                 ex = ex + Convert.ToInt32(txtQtd.Text);
                 db.performCRUD("insert into tblEntradas (produto_id,quantidade) Values ('" + txtID.Text + "','" + txtQtd.Text + "')");
-
-                MessageBox.Show("Usuário adicionado com sucesso!...", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                db.performCRUD("update tblProdutos set existencia = '" + ex + "' where id = " + produtoId);
+                
+                MessageBox.Show("Produto adicionado com sucesso!...", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 txtID.Text = "";
                 txtNome.Text = "";

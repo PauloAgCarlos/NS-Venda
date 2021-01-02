@@ -49,6 +49,7 @@
             this.columnHeader3 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader4 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.panel5 = new System.Windows.Forms.Panel();
+            this.impressoraComboBox = new System.Windows.Forms.ComboBox();
             this.panel8 = new System.Windows.Forms.Panel();
             this.button7 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
@@ -63,6 +64,7 @@
             this.label4 = new System.Windows.Forms.Label();
             this.txtPreco = new System.Windows.Forms.TextBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.impressaoTextBox = new System.Windows.Forms.TextBox();
             this.panelLeft.SuspendLayout();
             this.panel5.SuspendLayout();
             this.panel7.SuspendLayout();
@@ -269,6 +271,7 @@
             // 
             // panel5
             // 
+            this.panel5.Controls.Add(this.impressoraComboBox);
             this.panel5.Controls.Add(this.panel8);
             this.panel5.Controls.Add(this.button7);
             this.panel5.Controls.Add(this.button6);
@@ -281,6 +284,14 @@
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(331, 194);
             this.panel5.TabIndex = 4;
+            // 
+            // impressoraComboBox
+            // 
+            this.impressoraComboBox.FormattingEnabled = true;
+            this.impressoraComboBox.Location = new System.Drawing.Point(25, 108);
+            this.impressoraComboBox.Name = "impressoraComboBox";
+            this.impressoraComboBox.Size = new System.Drawing.Size(214, 21);
+            this.impressoraComboBox.TabIndex = 6;
             // 
             // panel8
             // 
@@ -457,11 +468,23 @@
             this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
+            // impressaoTextBox
+            // 
+            this.impressaoTextBox.Location = new System.Drawing.Point(113, 261);
+            this.impressaoTextBox.Multiline = true;
+            this.impressaoTextBox.Name = "impressaoTextBox";
+            this.impressaoTextBox.Size = new System.Drawing.Size(300, 234);
+            this.impressaoTextBox.TabIndex = 22;
+            this.impressaoTextBox.Text = "                          NOME DA EMPRESA\r\n\r\n                      Descrição da E" +
+    "mpresa\r\n\r\nLocalização:\r\n\r\n\r\nCliente:\r\n\r\nProdutos             Qtd         Preco  " +
+    "              Total\r\n";
+            // 
             // UC_Vendas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
+            this.Controls.Add(this.impressaoTextBox);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.txtCliente);
             this.Controls.Add(this.txtQtd);
@@ -529,6 +552,8 @@
         private System.Windows.Forms.TextBox txtPreco;
         private System.Windows.Forms.ColumnHeader columnHeader4;
         private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.ComboBox impressoraComboBox;
+        private System.Windows.Forms.TextBox impressaoTextBox;
 
     }
 }

@@ -75,8 +75,17 @@ namespace NS_Venda.Forms
 
         private void btnHome_Click(object sender, EventArgs e)
         {
-            UC_Dashboard ud = new UC_Dashboard();
-            AddControls(ud);
+            string funcao = Properties.Settings.Default.FuncaoUsuario;
+            if (funcao == "Admin")
+            {
+                UC_Dashboard ud = new UC_Dashboard();
+                AddControls(ud);
+            }
+            else
+            {
+                MessageBox.Show("Não tens permissão para acessar!...", "Permissão negada", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            
         }
 
         private void btnSaleBooks_Click(object sender, EventArgs e)
@@ -87,26 +96,63 @@ namespace NS_Venda.Forms
 
         private void btnPurchase_Click(object sender, EventArgs e)
         {
-            UC_Produtos up = new UC_Produtos();
-            AddControls(up);
+            string funcao = Properties.Settings.Default.FuncaoUsuario;
+            if (funcao=="Admin")
+            {
+                UC_Produtos up = new UC_Produtos();
+                AddControls(up);
+            }
+            else
+            {
+                MessageBox.Show("Não tens permissão para acessar!...", "Permissão negada", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            
         }
 
         private void btnExpense_Click(object sender, EventArgs e)
         {
-            UC_Entradas uc = new UC_Entradas();
-            AddControls(uc);
+            string funcao = Properties.Settings.Default.FuncaoUsuario;
+            if (funcao == "Admin")
+            {
+                UC_Entradas uc = new UC_Entradas();
+                AddControls(uc);
+            }
+            else
+            {
+                MessageBox.Show("Não tens permissão para acessar!...", "Permissão negada", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            
         }
 
         private void btnUsers_Click(object sender, EventArgs e)
         {
-            UC_Fornecedores uf = new UC_Fornecedores();
-            AddControls(uf);
+            string funcao = Properties.Settings.Default.FuncaoUsuario;
+            if (funcao == "Admin")
+            {
+                UC_Fornecedores uf = new UC_Fornecedores();
+                AddControls(uf);
+            }
+            else
+            {
+                MessageBox.Show("Não tens permissão para acessar!...", "Permissão negada", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            
         }
 
         private void btnViewSales_Click(object sender, EventArgs e)
         {
-            UC_Relatorios ur = new UC_Relatorios();
-            AddControls(ur);
+            string funcao = Properties.Settings.Default.FuncaoUsuario;
+            if (funcao == "Admin")
+            {
+                UC_Relatorios ur = new UC_Relatorios();
+                AddControls(ur);
+            }
+            else
+            {
+                MessageBox.Show("Não tens permissão para acessar!...", "Permissão negada", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            
+             
            
         }
 
@@ -117,8 +163,25 @@ namespace NS_Venda.Forms
 
         private void button1_Click(object sender, EventArgs e)
         {
-            UC_Usuarios uc = new UC_Usuarios();
-            AddControls(uc);
+            string funcao = Properties.Settings.Default.FuncaoUsuario;
+            if (funcao == "Admin")
+            {
+                UC_Usuarios uc = new UC_Usuarios();
+                AddControls(uc);
+            }
+            else
+            {
+                MessageBox.Show("Não tens permissão para acessar!...", "Permissão negada", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+
+            
+        }
+
+        private void Form_Dashboard_Load(object sender, EventArgs e)
+        {
+            txtNomeUsuario.Text = Properties.Settings.Default.NomeUsuario;
+            txtFuncao.Text = Properties.Settings.Default.FuncaoUsuario;
+            labelEmpresa.Text = Properties.Settings.Default.NomeEmpresa;
         }
     }
 }

@@ -39,6 +39,8 @@ namespace NS_Venda.Forms
                     this.Alert("Success Alert", Form_Alert.enmType.Success);
                     using (Form_Dashboard fd = new Form_Dashboard())
                     {
+                        string nomeUsuario = Properties.Settings.Default.NomeUsuario;
+                        //Properties.Settings.Default.teste = nomeUsuario.ToString();
                         
                         fd.ShowDialog();
                     }

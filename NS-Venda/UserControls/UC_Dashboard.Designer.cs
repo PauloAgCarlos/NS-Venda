@@ -106,9 +106,9 @@
             this.label8.ForeColor = System.Drawing.Color.White;
             this.label8.Location = new System.Drawing.Point(13, 17);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(92, 19);
+            this.label8.Size = new System.Drawing.Size(75, 19);
             this.label8.TabIndex = 0;
-            this.label8.Text = "Customers:";
+            this.label8.Text = "Usuários:";
             // 
             // label11
             // 
@@ -130,9 +130,9 @@
             this.label10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(71)))), ((int)(((byte)(160)))));
             this.label10.Location = new System.Drawing.Point(661, 516);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(72, 19);
+            this.label10.Size = new System.Drawing.Size(69, 19);
             this.label10.TabIndex = 5;
-            this.label10.Text = "Recived";
+            this.label10.Text = "Usuário:";
             // 
             // label9
             // 
@@ -140,11 +140,11 @@
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(71)))), ((int)(((byte)(160)))));
-            this.label9.Location = new System.Drawing.Point(624, 320);
+            this.label9.Location = new System.Drawing.Point(620, 249);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(235, 19);
+            this.label9.Size = new System.Drawing.Size(23, 19);
             this.label9.TabIndex = 6;
-            this.label9.Text = "% Amount Recived and Paid:";
+            this.label9.Text = "%";
             // 
             // label1
             // 
@@ -154,9 +154,9 @@
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(71)))), ((int)(((byte)(160)))));
             this.label1.Location = new System.Drawing.Point(90, 249);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(115, 19);
+            this.label1.Size = new System.Drawing.Size(151, 19);
             this.label1.TabIndex = 7;
-            this.label1.Text = "Yearly Report:";
+            this.label1.Text = "Relatórios Mensais:";
             // 
             // label5
             // 
@@ -207,9 +207,9 @@
             this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(15, 18);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(94, 19);
+            this.label3.Size = new System.Drawing.Size(78, 19);
             this.label3.TabIndex = 0;
-            this.label3.Text = "Sold Books:";
+            this.label3.Text = "Produtos:";
             // 
             // panel1
             // 
@@ -231,9 +231,9 @@
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(71)))), ((int)(((byte)(160)))));
             this.label2.Location = new System.Drawing.Point(359, 39);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(314, 25);
+            this.label2.Size = new System.Drawing.Size(277, 25);
             this.label2.TabIndex = 8;
-            this.label2.Text = "Sales and Purchase Overview";
+            this.label2.Text = "Dados Gerais da Empresa";
             // 
             // label6
             // 
@@ -242,9 +242,9 @@
             this.label6.ForeColor = System.Drawing.Color.White;
             this.label6.Location = new System.Drawing.Point(15, 18);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(143, 19);
+            this.label6.Size = new System.Drawing.Size(149, 19);
             this.label6.TabIndex = 0;
-            this.label6.Text = "Purchased Books:";
+            this.label6.Text = "Rupturas de Stock:";
             // 
             // panel2
             // 
